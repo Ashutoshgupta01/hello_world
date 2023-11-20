@@ -1,9 +1,9 @@
 {
-  "server_status": "true",
-  "server_message": "Server maintenance break for few minutes",
+  "serverStatus": "true",
+  "serverMessage": "Server maintenance break for few minutes",
   "version": "9",
-  "typo_version": "1.2.6",
-  "necessary_update_version": "9",
-  "update_message": "• Material 3 designn\n• More user friendly\n• Bugs fixed\n• Removed *s errors *s \n• More *b stability *b for Android 13 devices",
-  "update_link": "https://codekosh-afi.github.io/codekosh.github.io/"
+  "typoVersion": "1.2.6",
+  "necessaryUpdateVersion": "9",
+  "updateMessage": "• Material 3 designn\n• More user friendly\n• Bugs fixed\n• Removed *s errors *s \n• More *b stability *b for Android 13 devices",
+  "updateLink": "https://codekosh-afi.github.io/codekosh.github.io/"
 }
